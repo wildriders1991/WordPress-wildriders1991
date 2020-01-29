@@ -1,0 +1,81 @@
+body{
+    background: red;}
+
+#naslov {
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 400px;
+}
+
+li {
+    display:inline;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: white;
+}
+
+a:link {background-color: red;}
+a:visited {background-color: red;}
+a:hover {background-color: rgb(212, 16, 16);}
+a:active {background-color: red;}
+
+#log {
+    
+    position: absolute;
+    left: 1280px;
+    top: 10px;
+}
+
+#slike {     
+    position: absolute;
+    top:204px; 
+    left: 1032px;    
+    background:rgb(212, 16, 16);
+    height: 300px;
+    width: 300px; 
+    border: 2px solid white;       
+  }
+  
+  #slike1 {
+    position: absolute;
+    top: 204px;
+    background:rgb(212, 16, 16);
+    height: 300px;
+    width: 300px; 
+    border: 2px solid white;
+    font-size: 16px;
+    color:white;
+  }
+#winer{ 
+    margin-left:20px;
+    margin-right: 15px;
+  }
+  hr {border: 2px solid rgb(212, 16, 16);}
+ 
+  #text{position: absolute;
+    top: 204px;
+    left: 350px;
+    height: 300px;
+    width: 650px; 
+    color: white;
+}
+
+#donja {
+    position: absolute;
+    top:850px; 
+}
+#legenda {
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 500px;
+    }
+#stiven{font-size: 15px;
+    color: white;}
+
+
+}
+
+
